@@ -12,6 +12,7 @@ function App() {
         <h2>Redacciones</h2>
         <h2>Mision</h2>
         <h2>Contacto</h2>
+        <h2>Chat</h2>
       </nav>
 
     </>
