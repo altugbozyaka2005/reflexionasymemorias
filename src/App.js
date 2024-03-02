@@ -13,6 +13,7 @@ function App() {
         <h2>Mision</h2>
         <h2>Contacto</h2>
         <h2>Chat</h2>
+        <h3>Daniel is the G</h3>
       </nav>
 
     </>
